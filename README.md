@@ -32,8 +32,8 @@ Requisitos: Docker + Docker Compose (v2, `docker compose`).
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/nahataen/docker-wp-nginx-adminer.git
-   cd docker-wp-nginx-adminer
+   git clone https://github.com/nahataen/Docker-Wordpress.git
+   cd Docker-Wordpress
    ```
 
 2. (Opcional) Ajusta usuarios y contraseñas de ejemplo en `docker-compose.yml`
